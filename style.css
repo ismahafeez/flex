@@ -1,0 +1,25 @@
+#img {
+    background-image: url(2.jpg);
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+  .block {
+    width: 300px;
+    height: 180px;
+    background-color: #164cb0;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+  
